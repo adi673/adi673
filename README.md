@@ -42,5 +42,5 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adi673&show_icons=true&locale=en&layout=compact&theme=radical" alt="adityachandra1" />
 </p>
 </br></br>  
-<p  align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adi673&theme=radical" alt="adi673" /></p>
+<!-- <p  align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adi673&theme=radical" alt="adi673" /></p> -->
 
